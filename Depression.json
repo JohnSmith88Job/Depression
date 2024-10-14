@@ -1,0 +1,12 @@
+{
+    "name": "Depression",
+    "symbol": "Depre",
+    "description": "Depression mate :(",
+    "image": "https://raw.githubusercontent.com/JohnSmith88Job/Depression/refs/heads/main/Depression.png",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
+  }
